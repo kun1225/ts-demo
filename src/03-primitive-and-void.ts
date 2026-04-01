@@ -24,7 +24,7 @@ console.log(decimal, hexadecimal, binary, octal);
 // 42 255 42 42
 
 // NaN
-let notANumber: number = 100 / "abc";
+// let notANumber: number = 100 / "abc";
 
 // Infinity
 let huge = 10 / 0;
